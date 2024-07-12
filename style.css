@@ -1,0 +1,66 @@
+.card {
+    width: 350px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-inline: auto;
+    background-color: white;
+    border-radius: 20px;
+    margin-inline: auto;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+.container {
+    font-family: "Lato";
+}
+
+#amount {
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+#from {
+    width: 320px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+#to {
+    width: 320px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+#btn {
+    width: 320px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding-left: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+#result {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
